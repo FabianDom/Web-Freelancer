@@ -32,8 +32,9 @@ body {
 }
 
 .navegacion-principal {
-  background-color: var(--secundario);
   padding: 1rem;
+  display: flex;
+  justify-content: space-around;
 }
 .navegacion-principal a {
   color: var(--blanco);
