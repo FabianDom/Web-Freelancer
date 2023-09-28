@@ -5,7 +5,7 @@
   --secundario: #0097a7;
   --gris: #7575;
 }
-
+/* Box model */
 html {
   font-size: 62.5%;
   box-sizing: border-box;
